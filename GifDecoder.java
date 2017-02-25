@@ -1,5 +1,3 @@
-package com.iflytek.viafly.push.view;
-
 import java.io.ByteArrayInputStream;
 import java.io.InputStream;
 

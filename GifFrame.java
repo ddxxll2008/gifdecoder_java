@@ -1,5 +1,3 @@
-package com.iflytek.viafly.push.view;
-
 import android.graphics.Bitmap;
 
 public class GifFrame {

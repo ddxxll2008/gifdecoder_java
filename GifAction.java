@@ -1,5 +1,3 @@
-package com.iflytek.viafly.push.view;
-
 public interface GifAction {
 
 	/**
